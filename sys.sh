@@ -1,0 +1,1 @@
+libinput-gestures-setup autostart start  && kwriteconfig5 --file kwinrc --group ModifierOnlyShortcuts --key Meta "org.kde.krunner,/App,,toggleDisplay" && qdbus org.kde.KWin /KWin reconfigure && sudo systemctl enable --now syncthing && systemctl start syncthing@lucy.service --now
