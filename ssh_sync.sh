@@ -1,6 +1,6 @@
  #!/usr/bin/env sh
 
-SSH_PATH="/run/media/lucy/Elements/Backup/SCRIPT/"
+SSH_PATH="/run/media/lucy/Elements/SCRIPT/"
 
 cd "$SSH_PATH"
 
