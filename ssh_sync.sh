@@ -1,6 +1,6 @@
  #!/usr/bin/env sh
 
-SSH_PATH="/run/media/lucy/Elements/SCRIPT/"
+SSH_PATH="/home/elsa/Documents/Scripts/ssh_sync.sh"
 
 cd "$SSH_PATH"
 
