@@ -1,6 +1,6 @@
  #!/usr/bin/env sh
 
-SSH_PATH="/home/elsa/Documents/Scripts/ssh_sync.sh"
+SSH_PATH="/home/elsa/Documents/Scripts"
 
 cd "$SSH_PATH"
 
